@@ -1,9 +1,7 @@
 ### Olá! Hi there! 👋
 
-Sobre mim:
 Olá! Eu sou a Niara Merquides🏳️‍⚧️. Busco oportunidades e objetivo trabalhar nas áreas de Suporte Help Desk Bilingue, Programação Front e Back-end Júnior, Tech Recruiter, entre outros. Possuo experiência de atendimento ao público, recepção e assistente administrativo. Disponível para trabalhos remotos e presenciais.
 
-About:
 Hi there! I'm Niara Merquides🏳️‍⚧️. Currently looking for junior job opportunities such as Bilingual Help Desk and Remote support, Front and Back-end Junior Programming, Tech Recruiter, among others. Previous experiences on customer service and administrative assistant. Available for remote and face-to-face work.
 
 <!--
