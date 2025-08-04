@@ -1,8 +1,8 @@
 ### Olá! Hi there! 👋
 
-Olá! Eu sou a Niara Merquides🏳️‍⚧️. Busco oportunidades e objetivo trabalhar nas áreas de Suporte Help Desk Bilingue, Programação Front e Back-end Júnior, Tech Recruiter, entre outros. Possuo experiência de atendimento ao público, recepção e assistente administrativo. Disponível para trabalhos remotos e presenciais.
+Olá! Eu sou a Niara Merquides. Sou psicóloga com formação em andamento em Neuropsicologia e tenho conhecimentos em programação Front-End (HTML e JavaScript). Estou em busca de oportunidades para atuar como neuropsicóloga. Disponível para trabalhos presenciais e remotos.
 
-Hi there! I'm Niara Merquides🏳️‍⚧️. Currently looking for junior job opportunities such as Bilingual Help Desk and Remote support, Front and Back-end Junior Programming, Tech Recruiter, among others. Previous experiences on customer service and administrative assistant. Available for remote and face-to-face work.
+Hi! I'm Niara Merquides. I'm a psychologist currently specializing in Neuropsychology, with knowledge in Front-End development (HTML and JavaScript). I'm looking for opportunities to work as a neuropsychologist. Open to both remote and in-person positions.
 
 <!--
 **niaramerquides/niaramerquides** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
