@@ -1,8 +1,13 @@
-### Olá! Hi there! 👋
+### Olá! Hi! 👋
 
 Olá! Eu sou a Niara Merquides. Sou psicóloga com formação em andamento em Neuropsicologia e tenho conhecimentos em programação Front-End (HTML e JavaScript). Estou em busca de oportunidades para atuar como neuropsicóloga. Disponível para trabalhos presenciais e remotos.
 
 Hi! I'm Niara Merquides. I'm a psychologist currently specializing in Neuropsychology, with knowledge in Front-End development (HTML and JavaScript). I'm looking for opportunities to work as a neuropsychologist. Open to both remote and in-person positions.
+
+🔗 Ferramenta que desenvolvi: [Thoughts Record – Registro de Pensamentos](https://niaramerquides.github.io/registro/)
+
+
+
 
 <!--
 **niaramerquides/niaramerquides** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
